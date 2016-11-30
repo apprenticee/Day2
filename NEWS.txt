@@ -1,8 +1,7 @@
+1)
 Local workers in Geelong losing jobs to 457 visa holders, union claims
 
 Local workers are being overlooked for jobs at a Geelong construction site because the contractor is using foreign workers on 457 visas, the manufacturing union claims.
-
-
 
 Nearly 100 local welders, boilermakers and other skilled workers have applied for jobs with New World Engineering Construction (NWEC), which has been contracted by the Viva Energy oil refinery to build a new storage tank.
 
@@ -91,3 +90,52 @@ exploitation
    the controlled exploitation of resources 有节制的资源开发
 can't lie straight in bed 每一句实话
 flight attendant 空中乘务员
+
+
+2)
+An ice sheet in West Antarctica is breaking from the inside out.
+
+The significant new findings published yesterday in Geophysical Research Letters show that the ocean is melting the interior of the Pine Island Glacier, which is about the size of Texas. The crack seems to be accelerating, said Ian Howat, associate professor of earth sciences at Ohio State University and the study’s lead author. The findings are the first confirmation of something glaciologists have long suspected was happening, he said.
+
+“It’s showing a new weakness in the ice shelf, and it’s showing the weakness may be extending far up the glacier,” he said. “That’s the alarming thing from our standpoint.”
+
+Higher ocean temperatures are causing the ice to shrink at an accelerating rate, and it’s eroding the ice fringing the continent. That, in turn, opens the ice sheet to further contact with warmer ocean water and increases the amount of ice running into the ocean, the researchers found.
+
+“More importantly, it gives us a mechanism for even faster retreat in the future. Before, we used to have a slow retreat at the edges of the ice shelf,” Howat said. "The ocean had to nibble away at it on the edges. This allows the ice shelf to break apart way further inland from the inside out."
+
+This latest retreat is particularly noteworthy because it’s farther inland than anything scientists have previously observed, he said. It also shows that the region could be more vulnerable than previously thought.
+
+If Antarctica were not covered in ice, it would be a series of islands. That means much of the ice in the region is already under constant pressure from the ocean, as its movements dislodge the ice that covers the area between the land masses. Cracking is more likely to occur in the valleys located on the ice sheet, where the ocean is in closer contact with the ice, researchers found.
+
+The currents off Antarctica are warmer and carry saltier water that encourages melting. The sea temperature is about 5 degrees Celsius, which is far warmer than the average surface temperature of minus 20 C. That causes a twofold vulnerability for the ice, because some of it is located underwater and because it is exposed to the warm sea around it.
+
+Similar rifts have already been observed in Greenland, as the Arctic warms and ocean water flows along the bedrock, causing the ice to melt. The Pine Island Glacier and a similar-sized neighboring glacier are unique because they block ice flows from reaching the sea. That’s enough to keep about 10 percent of the ice sheet from toppling into the warmer water.
+
+
+=====单词======
+ice sheet 冰层
+crack n. 裂缝
+rift n.裂缝
+geophysical 地球物理学
+lead authour 主要作者， 首席作者
+glaciologist
+standpoint
+erode
+fringe v. 形成...的边缘 adj.边缘的 n.外围，刘海
+retreat
+
+dislodge 
+1. to force or knock something out of its position
+2. to make some one leave a place or lose a position of power 
+
+land mass n.地块
+valley n.谷底， 峡谷
+Celcius 摄氏
+topple v.倒塌
+cavity n.洞
+globe n.地球 e.g. coastal cities across
+dam n.水坝
+spillway 溢洪道
+reservoir n.水库
+inundate v. 淹没
+increased flooding 洪水增多
